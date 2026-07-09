@@ -211,6 +211,19 @@ As a result, some experimental values obtained from the released dataset may dif
 
 ---
 
+## License
+
+The dataset, documentation, metadata, figures, and other non-software materials
+in this repository are released under the
+[Creative Commons Attribution 4.0 International License](./LICENSE.md).
+
+Please cite the associated paper when using this dataset in academic work.
+
+> **Note:** The CC BY 4.0 license does not apply to the software code unless
+> explicitly stated. See [`LICENSE.md`](./LICENSE.md) for the complete scope,
+> attribution requirements, and usage conditions.
+> ::: 
+
 ## Contact
 
 For questions about the code or dataset, please contact:
