@@ -229,15 +229,17 @@ Please cite the associated paper when using this dataset in academic work.
 For questions about the code or dataset, please contact:
 
 **Khai Le-Duc**
+```
 University of Toronto & University Health Network, Canada
-Email: [duckhai.le@mail.utoronto.ca](mailto:duckhai.le@mail.utoronto.ca)
-GitHub: [@leduckhai](https://github.com/leduckhai)
-
+Email: duckhai.le@mail.utoronto.ca
+GitHub: https://github.com/leduckhai
+```
 **Tan-Hanh Pham**
+```
 Florida Institute of Technology, USA
-GitHub: [@Hanhpt23](https://github.com/Hanhpt23)
-Website: [hanhpt23.github.io](https://hanhpt23.github.io)
-
+GitHub: https://github.com/Hanhpt23
+Website: https://hanhpt23.github.io
+```
 ---
 
 
