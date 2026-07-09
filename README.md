@@ -1,6 +1,6 @@
 <div align="center">
 
-### A multimodal dataset and interpretable machine-learning benchmark using Laser Doppler Flowmetry and Fluorescence Spectroscopy
+# A multimodal dataset and interpretable machine-learning benchmark using Laser Doppler Flowmetry and Fluorescence Spectroscopy
 
 [![Paper](https://img.shields.io/badge/Paper-Communications%20Medicine-1f6feb?style=flat-square)](https://doi.org/10.1038/s43856-026-01766-5)
 [![arXiv](https://img.shields.io/badge/arXiv-2502.00973-b31b1b?style=flat-square)](https://arxiv.org/abs/2502.00973)
